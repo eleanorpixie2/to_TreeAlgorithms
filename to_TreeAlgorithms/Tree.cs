@@ -26,7 +26,7 @@ namespace to_TreeAlgorithms
         }
 
         //display the tree
-        public static void DisplayTree()
+        public static void WriteOutlineFile()
         {
             for (int i = 0; i < tree.Count; i++)
             {
